@@ -6,8 +6,9 @@ const Main = React.createClass({
     return(
       <div>
         <h1>
-          <Link to="/">...duxstagram</Link>
+          <Link to="/">...stagram</Link>
         </h1>
+        {React.cloneElement(this.props.children, this.props)}
       </div>
     );
   }

@@ -1,10 +1,22 @@
 
-
+--------------------
+----------------------------------------
+------------------------------------------------------------
 //---------------------------------------------------------------------------------
-dotdotdot
+info
 
 - tutorial at
   https://learnredux.com
 
 
 //---------------------------------------------------------------------------------
+notes
+
+--------------------
+03
+
+- React.cloneElement - clone and return a new React element using element as the
+  starting point
+  https://reactjs.org/docs/react-api.html#cloneelement
+
+--------------------
