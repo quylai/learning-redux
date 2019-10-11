@@ -20,4 +20,11 @@ notes
   https://reactjs.org/docs/react-api.html#cloneelement
 
 --------------------
+04
+
+- nothing comes up on browser when go to address
+      http://localhost:7770/view
+  also "warning" in browser-console
+      Warning: [react-router] Location "/view" did not match any routes
+  ????
 
