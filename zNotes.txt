@@ -24,6 +24,16 @@ notes
 
 - provider does not show up in browser-consolelog, ????
 
+--------------------
+09
+
+- there are some discrepancy in term of "react-dev" tool back then versus now;
+  wasn't able to follow on this activity
+
+--------------------
+
+
+
 
 
 
